@@ -7,6 +7,10 @@ public class MainTest {
 		System.out.println("Test 2");
 		System.out.println("Test 3");
 		
+		System.out.println("test 8");
+		System.out.println("test 9");
+		
+		
 	}
 
 }
